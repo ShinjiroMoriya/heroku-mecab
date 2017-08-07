@@ -1,0 +1,7 @@
+cffi==1.10.0
+Django==1.11.4
+gunicorn==19.7.1
+natto-py==0.8.0
+pycparser==2.18
+pytz==2017.2
+whitenoise==3.3.0
